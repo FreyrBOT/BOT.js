@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "FreyrBot",
+      botName: "BHN-Bot",
       language: "czech",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/cs.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
@@ -101,7 +101,7 @@
       youtubeLink: null,
       website: "https://discordapp.com/channels/327229163847155713/327229378436005890",
       intervalMessages: ["Děkujeme za vaší podporu! https://media.giphy.com/media/W7941XBl4bqY8/giphy.gif"],
-      messageInterval: 30,
+      messageInterval: 40,
       songstats: false,
       commandLiteral: "!",
       blacklists: {
