@@ -46,13 +46,13 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "BHN-Bot",
+      botName: "BHN-BOT",
       language: "english",
       chatLink: "https://github.com/basicBot/source/blob/master/lang/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 69, // 1-200
-      startupVolume: 100, // 0-100
+      startupVolume: 69, // 0-100
       startupEmoji: true, // true or false
       autowoot: true,
       autoskip: false,
@@ -91,11 +91,11 @@
       motdEnabled: false,
       motdInterval: 5,
       motd: "Temporary Message of the Day",
-      filterChat: true,
+      filterChat: false,
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: "http://i.imgur.com/nRxgKsb.png",
+      rulesLink: "http://i.imgur.com/ivnDhNV.jpg",
       themeLink: null,
       fbLink: "https://www.facebook.com/BezzubkaLair/?notif_t=page_name_change&notif_id=1491769997319267",
       youtubeLink: null,
