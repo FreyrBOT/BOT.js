@@ -95,7 +95,7 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: "http://i.imgur.com/SuE7DnV.png",
+      rulesLink: "http://i.imgur.com/nRxgKsb.png",
       themeLink: null,
       fbLink: "https://www.facebook.com/BezzubkaLair/?notif_t=page_name_change&notif_id=1491769997319267",
       youtubeLink: null,
