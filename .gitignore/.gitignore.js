@@ -35,7 +35,7 @@
                 else {
                 var currentDJ = API.getDJ().username;
                 var user = chat.un; 
-                  API.sendChat("/em @" + user + " see you");
+                  API.sendChat("/em @" + user + "see you");
                 }
               }
             };
