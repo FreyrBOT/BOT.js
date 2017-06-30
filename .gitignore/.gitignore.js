@@ -100,7 +100,7 @@
       fbLink: "https://www.facebook.com/BezzubkaLair/?notif_t=page_name_change&notif_id=1491769997319267",
       youtubeLink: null,
       website: "https://discordapp.com/channels/327229163847155713/327229378436005890",
-      intervalMessages: ["INFROMACE, ČTI! https://goo.gl/1fBrPP"],
+      intervalMessages: ["Tomorrow our first Event (POP music) , around 4:00 PM :-) https://goo.gl/1fBrPP"],
       messageInterval: 10,
       songstats: false,
       commandLiteral: "!",
