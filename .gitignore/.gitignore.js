@@ -100,8 +100,8 @@
       fbLink: "https://www.facebook.com/BezzubkaLair/?notif_t=page_name_change&notif_id=1491769997319267",
       youtubeLink: null,
       website: "https://discordapp.com/channels/327229163847155713/327229378436005890",
-      intervalMessages: ["Tomorrow our first Event (POP music) , around 4:00 PM :-) https://goo.gl/1fBrPP"],
-      messageInterval: 10,
+      intervalMessages: ["Thank you for your support! With love #BHN <3"],
+      messageInterval: 40,
       songstats: false,
       commandLiteral: "!",
       blacklists: {
